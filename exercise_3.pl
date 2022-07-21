@@ -1,3 +1,5 @@
+# This script is designed to find all genes of the yersinia genome (yersinia_genome.fasta) and then save them in fasta format (yersinia_genes.fasta).
+
 #! /usr/bin/perl
 
 use strict;
